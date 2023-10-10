@@ -15,4 +15,12 @@ int numb; // счетчик цикла
     {
 
   cout << setw(4) << numb; // вывод первого столбца 
+  int cube = numb * numb * numb; // вычисление куба
 
+  cout << setw(6) << cube << endl; // вывод второго столбца
+
+   }
+
+ return 0;
+
+ }

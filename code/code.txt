@@ -1,0 +1,8 @@
+// cubelist.cpp // подсчет кубов целых чисел от 1 до 10
+ #include <iostream>
+
+#include <iomanip> //для setw
+
+using namespace std;
+
+ int main()
